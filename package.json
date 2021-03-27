@@ -1,0 +1,18 @@
+{
+  "name": "aurelia",
+  "version": "1.0.0",
+  "description": "a Crypto currency so elegant that you should download it 😉",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc --target es2020 -w index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^14.14.36",
+    "typescript": "^4.2.3"
+  }
+}
